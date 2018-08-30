@@ -1,6 +1,4 @@
-# Princeton Quantum Computer Architecture Group
-
-## People
+# People
 
 - Prof. Margaret Martonosi, Princeton
 - Ali Javadi-Abhari, Princeton EE Ph.D. -> Now at IBM T.J. Watson Research Center
@@ -8,7 +6,7 @@
 - Yipeng Huang, Princeton CS Postdoc
 - Prakash Murali, Princeton CS Ph.D. Student
 
-## Publications
+# Publications
 
 1. [Ali JavadiAbhari, Pranav Gokhale, Adam Holmes, Diana Franklin, Kenneth R. Brown, Margaret Martonosi, Frederic T. Chong: **Optimized surface code communication in superconducting quantum computers.** MICRO 2017: 692-705](https://yipenghuang0302.github.io/qarch_page/publications/p692-javadi-abhari.pdf)
 
@@ -26,3 +24,7 @@
 
 6. [Eric Chi, Stephen A. Lyon, Margaret Martonosi:
 **Tailoring quantum architectures to implementation style: a quantum computer for mobile and persistent qubits.** ISCA 2007: 198-209](p198-chi.pdf)
+
+# News
+[Martonosi sketches a path for a new type of computing](https://www.princeton.edu/news/2017/11/14/martonosi-sketches-path-new-type-computing)
+[Martonosi helps lead major push to make quantum computing practical](https://www.princeton.edu/news/2018/02/28/martonosi-helps-lead-major-push-make-quantum-computing-practical)
