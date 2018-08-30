@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Princeton Quantum Computer Architecture Group
 
-You can use the [editor on GitHub](https://github.com/QuantumArchitecturePrinceton/QuantumArchitecturePrinceton.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## People
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Prof. Margaret Martonosi, Princeton
+- Ali Javadi-Abhari, Princeton EE Ph.D. -> Now at IBM T.J. Watson Research Center
+- Eric Chi, Princeton EE Ph.D. -> Now at NVIDIA
+- Yipeng Huang, Princeton CS Postdoc
+- Prakash Murali, Princeton CS Ph.D. Student
 
-### Markdown
+## Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [Ali JavadiAbhari, Pranav Gokhale, Adam Holmes, Diana Franklin, Kenneth R. Brown, Margaret Martonosi, Frederic T. Chong: **Optimized surface code communication in superconducting quantum computers.** MICRO 2017: 692-705](https://yipenghuang0302.github.io/qarch_page/publications/p692-javadi-abhari.pdf)
 
-```markdown
-Syntax highlighted code block
+2. [Ali JavadiAbhari, Shruti Patil, Daniel Kudrow, Jeff Heckey, Alexey Lvov, Frederic T. Chong, Margaret Martonosi:
+**ScaffCC: Scalable compilation and analysis of quantum programs.** Parallel Computing 45: 2-17 (2015)](https://yipenghuang0302.github.io/qarch_page/publications/1507.01902.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+3. [Jeff Heckey, Shruti Patil, Ali JavadiAbhari, Adam Holmes, Daniel Kudrow, Kenneth R. Brown, Diana Franklin, Frederic T. Chong, Margaret Martonosi:
+**Compiler Management of Communication and Parallelism for Quantum Computation.** ASPLOS 2015: 445-456](https://yipenghuang0302.github.io/qarch_page/publications/p445-heckey.pdf)
 
-- Bulleted
-- List
+4. [Ali JavadiAbhari, Shruti Patil, Daniel Kudrow, Jeff Heckey, Alexey Lvov, Frederic T. Chong, Margaret Martonosi:
+**ScaffCC: a framework for compilation and analysis of quantum computing programs.** Conf. Computing Frontiers 2014: 1:1-1:10](https://yipenghuang0302.github.io/qarch_page/publications/a1-javadiabhari.pdf)
 
-1. Numbered
-2. List
+5. [Shruti Patil, Ali JavadiAbhari, Chen-Fu Chiang, Jeff Heckey, Margaret Martonosi, Frederic T. Chong:
+**Characterizing the performance effect of trials and rotations in applications that use Quantum Phase Estimation.** IISWC 2014: 181-190](https://yipenghuang0302.github.io/qarch_page/publications/06983057.pdf)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QuantumArchitecturePrinceton/QuantumArchitecturePrinceton.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+6. [Eric Chi, Stephen A. Lyon, Margaret Martonosi:
+**Tailoring quantum architectures to implementation style: a quantum computer for mobile and persistent qubits.** ISCA 2007: 198-209](p198-chi.pdf)
