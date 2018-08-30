@@ -1,5 +1,7 @@
 # QArch
 
+![](https://quantumarchitectureprinceton.github.io/images/ali_thesis_111.png)
+
 ## People
 
 - Prof. Margaret Martonosi, Princeton
