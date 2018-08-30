@@ -1,4 +1,4 @@
-# People
+## People
 
 - Prof. Margaret Martonosi, Princeton
 - Ali Javadi-Abhari, Princeton EE Ph.D. -> Now at IBM T.J. Watson Research Center
@@ -6,7 +6,7 @@
 - Yipeng Huang, Princeton CS Postdoc
 - Prakash Murali, Princeton CS Ph.D. Student
 
-# Publications
+## Publications
 
 1. [Ali JavadiAbhari, Pranav Gokhale, Adam Holmes, Diana Franklin, Kenneth R. Brown, Margaret Martonosi, Frederic T. Chong: **Optimized surface code communication in superconducting quantum computers.** MICRO 2017: 692-705](https://yipenghuang0302.github.io/qarch_page/publications/p692-javadi-abhari.pdf)
 
