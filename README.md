@@ -2,13 +2,14 @@
 
 ![](https://quantumarchitectureprinceton.github.io/images/ali_thesis_111.png)
 
-## People
+## Group Members
+- [Prof. Margaret Martonosi, Princeton](http://www.princeton.edu/~mrm/)
+- [Yipeng Huang, Princeton CS Postdoc](https://cs.princeton.edu/~yipengh)
+- [Prakash Murali, Princeton CS Ph.D. Student](https://cs.princeton.edu/~pmurali)
 
-- Prof. Margaret Martonosi, Princeton
+## Group Alumni
 - Ali Javadi-Abhari, Princeton EE Ph.D. -> Now at IBM T.J. Watson Research Center
 - Eric Chi, Princeton EE Ph.D. -> Now at NVIDIA
-- Yipeng Huang, Princeton CS Postdoc
-- Prakash Murali, Princeton CS Ph.D. Student
 
 ## Publications
 
