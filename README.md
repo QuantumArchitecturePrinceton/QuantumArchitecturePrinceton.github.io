@@ -31,11 +31,11 @@ Our work has been supported in part by the National Science Foundation (under gr
 [[PDF]](QuantumArchitecturePrinceton.github.io/publications/QDB-quantum-algorithms.pdf) [[arXiv]](https://arxiv.org/abs/1811.05447)
 
 - Ali JavadiAbhari, Pranav Gokhale, Adam Holmes, Diana Franklin, Kenneth R. Brown, Margaret Martonosi, Frederic T. Chong: **Optimized surface code communication in superconducting quantum computers.** MICRO 2017: 692-705
-[[PDF]](https://quantumarchitectureprinceton.github.io/publications/p692-javadi-abhari.pdf)
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/p692-javadi-abhari.pdf) [[arXiv]](https://arxiv.org/abs/1708.09283)
 
 - Ali JavadiAbhari, Shruti Patil, Daniel Kudrow, Jeff Heckey, Alexey Lvov, Frederic T. Chong, Margaret Martonosi:
 **ScaffCC: Scalable compilation and analysis of quantum programs.** Parallel Computing 45: 2-17 (2015)
-[[PDF]](https://quantumarchitectureprinceton.github.io/publications/1507.01902.pdf)
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/1507.01902.pdf) [[arXiv]](https://arxiv.org/abs/1507.01902)
 
 - Jeff Heckey, Shruti Patil, Ali JavadiAbhari, Adam Holmes, Daniel Kudrow, Kenneth R. Brown, Diana Franklin, Frederic T. Chong, Margaret Martonosi:
 **Compiler Management of Communication and Parallelism for Quantum Computation.** ASPLOS 2015: 445-456
@@ -51,7 +51,7 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 - Eric Chi, Stephen A. Lyon, Margaret Martonosi:
 **Tailoring quantum architectures to implementation style: a quantum computer for mobile and persistent qubits.** ISCA 2007: 198-209
-[[PDF]](https://quantumarchitectureprinceton.github.io/publications/p198-chi.pdf)
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/p198-chi.pdf) [[arXiv]](https://arxiv.org/abs/0801.0094)
 
 ## Software
 
