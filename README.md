@@ -27,6 +27,12 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
+- Prakash Murali, Jonathan M. Baker, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi: **Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers.** ASPLOS 2019
+[[arXiv]](https://arxiv.org/abs/1901.11054)
+
+- Yipeng Huang, Margaret Martonosi: **QDB: From Quantum Algorithms Towards Correct Quantum Programs.** PLATEAU workshop SPLASH 2018
+[[PDF]](QuantumArchitecturePrinceton.github.io/publications/QDB-quantum-algorithms.pdf) [[arXiv]](https://arxiv.org/abs/1811.05447)
+
 - Yipeng Huang, Margaret Martonosi: **QDB: From Quantum Algorithms Towards Correct Quantum Programs.** PLATEAU workshop SPLASH 2018
 [[PDF]](QuantumArchitecturePrinceton.github.io/publications/QDB-quantum-algorithms.pdf) [[arXiv]](https://arxiv.org/abs/1811.05447)
 
