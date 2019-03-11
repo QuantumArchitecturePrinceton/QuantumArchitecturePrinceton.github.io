@@ -30,6 +30,8 @@ Our work has been supported in part by the National Science Foundation (under gr
 - Prakash Murali, Jonathan M. Baker, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi: **Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers.** ASPLOS 2019
 [[arXiv]](https://arxiv.org/abs/1901.11054)
 
+- Prakash Murali, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi. **Formal Constraint-based Compilation for Noisy Intermediate-Scale Quantum Systems**, Microprocessors and Microsystems, Special Issue on Quantum Computer Architecture: a full-stack overview. (Earlier version of ASPLOS 2019 paper) [[arXiv]](https://arxiv.org/pdf/1903.03276)
+ 
 - Yipeng Huang, Margaret Martonosi: **QDB: From Quantum Algorithms Towards Correct Quantum Programs.** PLATEAU workshop SPLASH 2018
 [[PDF]](QuantumArchitecturePrinceton.github.io/publications/QDB-quantum-algorithms.pdf) [[arXiv]](https://arxiv.org/abs/1811.05447)
 
