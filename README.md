@@ -35,9 +35,6 @@ Our work has been supported in part by the National Science Foundation (under gr
 - Yipeng Huang, Margaret Martonosi: **QDB: From Quantum Algorithms Towards Correct Quantum Programs.** PLATEAU workshop SPLASH 2018
 [[PDF]](QuantumArchitecturePrinceton.github.io/publications/QDB-quantum-algorithms.pdf) [[arXiv]](https://arxiv.org/abs/1811.05447)
 
-- Yipeng Huang, Margaret Martonosi: **QDB: From Quantum Algorithms Towards Correct Quantum Programs.** PLATEAU workshop SPLASH 2018
-[[PDF]](QuantumArchitecturePrinceton.github.io/publications/QDB-quantum-algorithms.pdf) [[arXiv]](https://arxiv.org/abs/1811.05447)
-
 - Ali JavadiAbhari, Pranav Gokhale, Adam Holmes, Diana Franklin, Kenneth R. Brown, Margaret Martonosi, Frederic T. Chong: **Optimized surface code communication in superconducting quantum computers.** MICRO 2017: 692-705
 [[PDF]](https://quantumarchitectureprinceton.github.io/publications/p692-javadi-abhari.pdf) [[arXiv]](https://arxiv.org/abs/1708.09283)
 
