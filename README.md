@@ -7,8 +7,8 @@
 - [Prof. Margaret Martonosi, Princeton](http://www.princeton.edu/~mrm/)
 - [Yipeng Huang, Princeton CS Postdoc](https://cs.princeton.edu/~yipengh)
 - [Prakash Murali, Princeton CS Ph.D. Student](https://cs.princeton.edu/~pmurali)
-- Wei Tang, Princeton CS Ph.D. Student
-- Teague Tomesh, Princeton CS Ph.D. Student
+- [Wei Tang, Princeton CS Ph.D. Student](https://www.cs.princeton.edu/~weit/)
+- [Teague Tomesh, Princeton CS Ph.D. Student](https://www.cs.princeton.edu/~ttomesh/)
 - [Our collaborators at EPiQC, an NSF Expedition in Computing](https://www.epiqc.cs.uchicago.edu/)
 
 ## Group Alumni
@@ -27,36 +27,73 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
-- Prakash Murali, Jonathan M. Baker, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi: **Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers.** ASPLOS 2019
+- Prakash Murali, Jonathan M. Baker, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi:
+**Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers.**
+ASPLOS 2019
+[[lightning]](https://www.youtube.com/watch?v=4RlOaxYPkX8&feature=youtu.be)
 [[arXiv]](https://arxiv.org/abs/1901.11054)
 
-- Prakash Murali, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi. **Formal Constraint-based Compilation for Noisy Intermediate-Scale Quantum Systems**, Microprocessors and Microsystems, Special Issue on Quantum Computer Architecture: a full-stack overview. (Earlier version of ASPLOS 2019 paper) [[arXiv]](https://arxiv.org/pdf/1903.03276)
+- Prakash Murali, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi:
+**Formal Constraint-based Compilation for Noisy Intermediate-Scale Quantum Systems.**
+Microprocessors and Microsystems, Special Issue on Quantum Computer Architecture: a full-stack overview.
+(Earlier version of ASPLOS 2019 paper)
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/1903.03276.pdf)
+[[arXiv]](https://arxiv.org/abs/1903.03276)
  
-- Yipeng Huang, Margaret Martonosi: **QDB: From Quantum Algorithms Towards Correct Quantum Programs.** PLATEAU workshop SPLASH 2018
-[[PDF]](QuantumArchitecturePrinceton.github.io/publications/QDB-quantum-algorithms.pdf) [[arXiv]](https://arxiv.org/abs/1811.05447)
+- **Quantum Computing: Progress and Prospects (2018)**
+National Academies of Sciences, Engineering, and Medicine. 2018.
+Margaret Martonosi was a member of the study committee for this report.
+[[link]](https://doi.org/10.17226/25196)
 
-- Ali JavadiAbhari, Pranav Gokhale, Adam Holmes, Diana Franklin, Kenneth R. Brown, Margaret Martonosi, Frederic T. Chong: **Optimized surface code communication in superconducting quantum computers.** MICRO 2017: 692-705
-[[PDF]](https://quantumarchitectureprinceton.github.io/publications/p692-javadi-abhari.pdf) [[arXiv]](https://arxiv.org/abs/1708.09283)
+- Margaret Martonosi, Martin Roetteler:
+**Next Steps in Quantum Computing: Computer Science's Role.**
+A Computing Community Consortium (CCC) workshop report
+[[link]](https://cra.org/ccc/events/quantum-computing/)
+[[arXiv]](https://arxiv.org/abs/1903.10541)
+
+- Yipeng Huang, Margaret Martonosi:
+**QDB: From Quantum Algorithms Towards Correct Quantum Programs.**
+PLATEAU workshop SPLASH 2018
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/QDB-quantum-algorithms.pdf)
+[[arXiv]](https://arxiv.org/abs/1811.05447)
+
+- Ali JavadiAbhari, Pranav Gokhale, Adam Holmes, Diana Franklin, Kenneth R. Brown, Margaret Martonosi, Frederic T. Chong:
+**Optimized surface code communication in superconducting quantum computers.**
+MICRO 2017: 692-705
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/p692-javadi-abhari.pdf)
+[[arXiv]](https://arxiv.org/abs/1708.09283)
 
 - Ali JavadiAbhari, Shruti Patil, Daniel Kudrow, Jeff Heckey, Alexey Lvov, Frederic T. Chong, Margaret Martonosi:
-**ScaffCC: Scalable compilation and analysis of quantum programs.** Parallel Computing 45: 2-17 (2015)
-[[PDF]](https://quantumarchitectureprinceton.github.io/publications/1507.01902.pdf) [[arXiv]](https://arxiv.org/abs/1507.01902)
+**ScaffCC: Scalable compilation and analysis of quantum programs.**
+Parallel Computing 45: 2-17 (2015)
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/1507.01902.pdf)
+[[arXiv]](https://arxiv.org/abs/1507.01902)
 
 - Jeff Heckey, Shruti Patil, Ali JavadiAbhari, Adam Holmes, Daniel Kudrow, Kenneth R. Brown, Diana Franklin, Frederic T. Chong, Margaret Martonosi:
-**Compiler Management of Communication and Parallelism for Quantum Computation.** ASPLOS 2015: 445-456
+**Compiler Management of Communication and Parallelism for Quantum Computation.**
+ASPLOS 2015: 445-456
 [[PDF]](https://quantumarchitectureprinceton.github.io/publications/p445-heckey.pdf)
 
 - Ali JavadiAbhari, Shruti Patil, Daniel Kudrow, Jeff Heckey, Alexey Lvov, Frederic T. Chong, Margaret Martonosi:
-**ScaffCC: a framework for compilation and analysis of quantum computing programs.** Conf. Computing Frontiers 2014: 1:1-1:10
+**ScaffCC: a framework for compilation and analysis of quantum computing programs.**
+Conf. Computing Frontiers 2014: 1:1-1:10
 [[PDF]](https://quantumarchitectureprinceton.github.io/publications/a1-javadiabhari.pdf)
 
 - Shruti Patil, Ali JavadiAbhari, Chen-Fu Chiang, Jeff Heckey, Margaret Martonosi, Frederic T. Chong:
-**Characterizing the performance effect of trials and rotations in applications that use Quantum Phase Estimation.** IISWC 2014: 181-190
+**Characterizing the performance effect of trials and rotations in applications that use Quantum Phase Estimation.**
+IISWC 2014: 181-190
 [[PDF]](https://quantumarchitectureprinceton.github.io/publications/06983057.pdf)
 
 - Eric Chi, Stephen A. Lyon, Margaret Martonosi:
-**Tailoring quantum architectures to implementation style: a quantum computer for mobile and persistent qubits.** ISCA 2007: 198-209
-[[PDF]](https://quantumarchitectureprinceton.github.io/publications/p198-chi.pdf) [[arXiv]](https://arxiv.org/abs/0801.0094)
+**Deterministic error model for quantum computer simulation.**
+Physical Review A 77, 052315 – Published 14 May 2008
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/PhysRevA.77.052315.pdf)
+
+- Eric Chi, Stephen A. Lyon, Margaret Martonosi:
+**Tailoring quantum architectures to implementation style: a quantum computer for mobile and persistent qubits.**
+ISCA 2007: 198-209
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/p198-chi.pdf)
+[[arXiv]](https://arxiv.org/abs/0801.0094)
 
 ## Software
 
