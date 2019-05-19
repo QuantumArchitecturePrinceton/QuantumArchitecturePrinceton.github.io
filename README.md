@@ -27,10 +27,16 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
+- Yipeng Huang, Margaret Martonosi:
+**Statistical Assertions for Validating Patterns and Finding Bugs in Quantum Programs.**
+ISCA 2019
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/statistical-assertions.pdf)
+
 - Prakash Murali, Jonathan M. Baker, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi:
 **Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers.**
 ASPLOS 2019
 [[lightning]](https://www.youtube.com/watch?v=4RlOaxYPkX8&feature=youtu.be)
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/1901.11054.pdf)
 [[arXiv]](https://arxiv.org/abs/1901.11054)
 
 - Prakash Murali, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi:
@@ -55,6 +61,8 @@ A Computing Community Consortium (CCC) workshop report
 **QDB: From Quantum Algorithms Towards Correct Quantum Programs.**
 PLATEAU workshop SPLASH 2018
 [[PDF]](https://quantumarchitectureprinceton.github.io/publications/QDB-quantum-algorithms.pdf)
+[[slides]](https://quantumarchitectureprinceton.github.io/slides/qdb_plateau.pdf)
+[[poster]](https://quantumarchitectureprinceton.github.io/posters/qdb_plateau_poster.pdf)
 [[arXiv]](https://arxiv.org/abs/1811.05447)
 
 - Ali JavadiAbhari, Pranav Gokhale, Adam Holmes, Diana Franklin, Kenneth R. Brown, Margaret Martonosi, Frederic T. Chong:
