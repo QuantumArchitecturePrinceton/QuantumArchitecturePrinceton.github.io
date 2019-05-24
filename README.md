@@ -31,6 +31,7 @@ Our work has been supported in part by the National Science Foundation (under gr
 **Statistical Assertions for Validating Patterns and Finding Bugs in Quantum Programs.**
 ISCA 2019
 [[PDF]](https://quantumarchitectureprinceton.github.io/publications/statistical-assertions.pdf)
+[[arXiv]](https://arxiv.org/abs/1905.09721)
 
 - Prakash Murali, Jonathan M. Baker, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi:
 **Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers.**
