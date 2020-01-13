@@ -27,6 +27,24 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
+Prakash Murali, David C. McKay, Margaret Martonosi, Ali Javadi Abhari:
+**Software Mitigation of Crosstalk on Noisy Intermediate-Scale Quantum Computers**
+ASPLOS 2020
+[[arXiv]](https://arxiv.org/abs/2001.02826)
+
+Prakash Murali, Norbert Matthias Linke, Margaret Martonosi, Ali Javadi Abhari, Nhung Hong Nguyen, Cinthia Huerta Alderete:
+**Full-Stack, Real-System Quantum Computer Studies: Architectural Comparisons and Design Insights.**
+ISCA 2019
+[[PDF]](https://mrmgroup.cs.princeton.edu/papers/triq_ISCA2019.pdf)
+[[arXiv]](https://arxiv.org/abs/1905.11349)
+
+- Prakash Murali, Jonathan M. Baker, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi:
+**Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers.**
+ASPLOS 2019
+[[lightning]](https://www.youtube.com/watch?v=4RlOaxYPkX8&feature=youtu.be)
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/1901.11054.pdf)
+[[arXiv]](https://arxiv.org/abs/1901.11054)
+
 - Yipeng Huang, Margaret Martonosi:
 **Statistical Assertions for Validating Patterns and Finding Bugs in Quantum Programs.**
 ISCA 2019
