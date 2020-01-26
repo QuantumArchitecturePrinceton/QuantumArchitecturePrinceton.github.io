@@ -27,6 +27,16 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
+- Kaiwen Gui, Teague Tomesh, Pranav Gokhale, Yunong Shi, Frederic T. Chong, Margaret Martonosi, Martin Suchara:
+**Term Grouping and Travelling Salesperson for Digital Quantum Simulation**
+Preprint available online
+[[arXiv]](https://arxiv.org/abs/2001.05983)
+
+- Pranav Gokhale, Olivia Angiuli, Yongshan Ding, Kaiwen Gui, Teague Tomesh, Martin Suchara, Margaret Martonosi, Frederic T. Chong:
+**Minimizing State Preparations in Variational Quantum Eigensolver by Partitioning into Commuting Families**
+Under Submission. 1st place IBM Q Best Paper Award.
+[[arXiv]](https://arxiv.org/abs/1907.13623)
+
 - Prakash Murali, David C. McKay, Margaret Martonosi, Ali Javadi Abhari:
 **Software Mitigation of Crosstalk on Noisy Intermediate-Scale Quantum Computers**
 ASPLOS 2020
