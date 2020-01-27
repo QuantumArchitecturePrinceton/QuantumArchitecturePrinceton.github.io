@@ -27,6 +27,10 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
+- Wei Tang, Zhaoqi Leng, Andrew Houck, Margaret Martonosi:
+**Single-Qubit Optimal Quantum Readout via Neural Networks.**
+Talk at the APS March Meeting 2020.
+
 - Kaiwen Gui, Teague Tomesh, Pranav Gokhale, Yunong Shi, Frederic T. Chong, Margaret Martonosi, Martin Suchara:
 **Term Grouping and Travelling Salesperson for Digital Quantum Simulation.**
 Preprint available online.
