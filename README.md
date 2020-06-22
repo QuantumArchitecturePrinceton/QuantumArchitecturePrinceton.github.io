@@ -27,6 +27,20 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
+- Prakash Murali, Norbert Matthias Linke, Margaret Martonosi, Ali Javadi Abhari, Nhung Hong Nguyen, Cinthia Huerta Alderete. **Architecting Noisy-Intermediate Scale Quantum Computers: A Real-System Study** 
+IEEE Micro, 40 (3) (Top Picks of the 2019 Computer Architecture Conferences), May-June 2020. 
+[[pdf]](https://mrmgroup.cs.princeton.edu/papers/pmurali-toppicks20.pdf) 
+
+- Prakash Murali, Dripto M. Debroy, Kenneth R. Brown, Margaret Martonosi. 
+**Architecting Noisy Intermediate-Scale Trapped Ion Quantum Computers**
+47th International Symposium on Computer Architecture (ISCA ’20). 
+[[pdf]](https://mrmgroup.cs.princeton.edu/papers/pmurali-isca20.pdf) 
+
+- Y. Shi, P. Gokhale, P. Murali, J. M. Baker, C. Duckering, Y. Ding, N. C. Brown, C. Chamberland, A. J. Abhari, A. W. Cross, D. I. Schuster, K. R. Brown, M. Martonosi, and F. T. Chong. 
+**Resource-Efficient Quantum Computing by Breaking Abstractions**
+Invited paper, Proceedings of the IEEE, June 2020 
+[[pdf]](https://prakashmurali.bitbucket.io/papers/pieee2020.pdf) 
+
 - Wei Tang, Zhaoqi Leng, Andrew Houck, Margaret Martonosi:
 **Single-Qubit Optimal Quantum Readout via Neural Networks.**
 Talk at the APS March Meeting 2020.
