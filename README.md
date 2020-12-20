@@ -27,6 +27,13 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
+- Pranav Gokhale, Olivia Angiuli, Yongshan Ding, Kaiwen Gui, Teague Tomesh, Martin Suchara, Margaret Martonosi, Frederic T. Chong:
+**O(N^3) Measurement Cost for Variational Quantum Eigensolver on Molecular Hamiltonians.**
+IEEE Transactions on Quantum Engineering, November 2020. 1st place IBM Q Best Paper Award. IEEE International Conference on Quantum Computing and Engineering (QCE) 2020 Best Paper Award.
+[[pdf]](https://mrmgroup.cs.princeton.edu/papers/IEEE_TQE_VQEMeasurementReduction.pdf)
+[[IEEE TQE]](https://ieeexplore.ieee.org/document/9248636)
+[[arXiv]](https://arxiv.org/abs/1907.13623)
+
 - Wei Tang, Teague Tomesh, Martin Suchara, Jeffrey Larson, Margaret Martonosi.
 **CutQC: Using Small Quantum Computers for LargeQuantum Circuit Evaluations**
 Further revised version to appear at 26th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2021).
@@ -54,11 +61,6 @@ Talk at the APS March Meeting 2020.
 **Term Grouping and Travelling Salesperson for Digital Quantum Simulation.**
 Preprint available online.
 [[arXiv]](https://arxiv.org/abs/2001.05983)
-
-- Pranav Gokhale, Olivia Angiuli, Yongshan Ding, Kaiwen Gui, Teague Tomesh, Martin Suchara, Margaret Martonosi, Frederic T. Chong:
-**Minimizing State Preparations in Variational Quantum Eigensolver by Partitioning into Commuting Families.**
-Under Submission. 1st place IBM Q Best Paper Award.
-[[arXiv]](https://arxiv.org/abs/1907.13623)
 
 - Prakash Murali, David C. McKay, Margaret Martonosi, Ali Javadi Abhari:
 **Software Mitigation of Crosstalk on Noisy Intermediate-Scale Quantum Computers**
