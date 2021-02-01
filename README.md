@@ -30,28 +30,30 @@ Our work has been supported in part by the National Science Foundation (under gr
 - Pranav Gokhale, Olivia Angiuli, Yongshan Ding, Kaiwen Gui, Teague Tomesh, Martin Suchara, Margaret Martonosi, Frederic T. Chong:
 **O(N^3) Measurement Cost for Variational Quantum Eigensolver on Molecular Hamiltonians.**
 IEEE Transactions on Quantum Engineering, November 2020. 1st place IBM Q Best Paper Award. IEEE International Conference on Quantum Computing and Engineering (QCE) 2020 Best Paper Award.
-[[pdf]](https://mrmgroup.cs.princeton.edu/papers/IEEE_TQE_VQEMeasurementReduction.pdf)
+[[PDF]](https://mrmgroup.cs.princeton.edu/papers/IEEE_TQE_VQEMeasurementReduction.pdf)
 [[IEEE TQE]](https://ieeexplore.ieee.org/document/9248636)
 [[arXiv]](https://arxiv.org/abs/1907.13623)
 
 - Wei Tang, Teague Tomesh, Martin Suchara, Jeffrey Larson, Margaret Martonosi.
 **CutQC: Using Small Quantum Computers for LargeQuantum Circuit Evaluations**
 Further revised version to appear at the 26th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2021).
-[[pdf]](https://mrmgroup.cs.princeton.edu/papers/CutQC_ASPLOS2021.pdf)
+[[PDF]](https://mrmgroup.cs.princeton.edu/papers/CutQC_ASPLOS2021.pdf)
 
 - Prakash Murali, Norbert Matthias Linke, Margaret Martonosi, Ali Javadi Abhari, Nhung Hong Nguyen, Cinthia Huerta Alderete. **Architecting Noisy-Intermediate Scale Quantum Computers: A Real-System Study** 
 IEEE Micro, 40 (3) (Top Picks of the 2019 Computer Architecture Conferences), May-June 2020. 
-[[pdf]](https://mrmgroup.cs.princeton.edu/papers/pmurali-toppicks20.pdf) 
+[[PDF]](https://mrmgroup.cs.princeton.edu/papers/pmurali-toppicks20.pdf) 
 
 - Prakash Murali, Dripto M. Debroy, Kenneth R. Brown, Margaret Martonosi. 
 **Architecting Noisy Intermediate-Scale Trapped Ion Quantum Computers**
 47th International Symposium on Computer Architecture (ISCA ’20). 
-[[pdf]](https://mrmgroup.cs.princeton.edu/papers/pmurali-isca20.pdf) 
+[[PDF]](https://mrmgroup.cs.princeton.edu/papers/pmurali-isca20.pdf) 
+[[arXiv]](https://arxiv.org/abs/2004.04706)
 
-- Y. Shi, P. Gokhale, P. Murali, J. M. Baker, C. Duckering, Y. Ding, N. C. Brown, C. Chamberland, A. J. Abhari, A. W. Cross, D. I. Schuster, K. R. Brown, M. Martonosi, and F. T. Chong. 
-**Resource-Efficient Quantum Computing by Breaking Abstractions**
-Invited paper, Proceedings of the IEEE, June 2020 
-[[pdf]](https://prakashmurali.bitbucket.io/papers/pieee2020.pdf) 
+- Yunong Shi, Pranav Gokhale, Prakash Murali, Jonathan M. Baker, Casey Duckering, Yongshan Ding, Natalie C. Brown, Christopher Chamberland, Ali Javadi Abhari, Andrew W. Cross, David I. Schuster, Kenneth R. Brown, Margaret Martonosi, Frederic T. Chong.
+**Resource-Efficient Quantum Computing by Breaking Abstractions.**
+Invited paper. Proceedings of the IEEE, vol. 108, no. 8, pp. 1353-1370, Aug. 2020.
+[[PDF]](https://mrmgroup.cs.princeton.edu/papers/pieee2020.pdf)
+[[arXiv]](https://arxiv.org/abs/2011.00028) 
 
 - Wei Tang, Zhaoqi Leng, Andrew Houck, Margaret Martonosi:
 **Single-Qubit Optimal Quantum Readout via Neural Networks.**
@@ -65,6 +67,7 @@ Preprint available online.
 - Prakash Murali, David C. McKay, Margaret Martonosi, Ali Javadi Abhari:
 **Software Mitigation of Crosstalk on Noisy Intermediate-Scale Quantum Computers**
 ASPLOS 2020
+[[PDF]](https://mrmgroup.cs.princeton.edu/papers/pmurali-asplos20.pdf)
 [[arXiv]](https://arxiv.org/abs/2001.02826)
 
 - Prakash Murali, Norbert Matthias Linke, Margaret Martonosi, Ali Javadi Abhari, Nhung Hong Nguyen, Cinthia Huerta Alderete:
