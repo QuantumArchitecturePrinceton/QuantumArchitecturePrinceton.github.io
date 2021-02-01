@@ -5,7 +5,6 @@
 ## Group Members
 
 - [Prof. Margaret Martonosi, Princeton](http://www.princeton.edu/~mrm/)
-- [Yipeng Huang, Princeton CS Postdoc](https://cs.princeton.edu/~yipengh)
 - [Prakash Murali, Princeton CS Ph.D. Student](https://cs.princeton.edu/~pmurali)
 - [Wei Tang, Princeton CS Ph.D. Student](https://www.cs.princeton.edu/~weit/)
 - [Teague Tomesh, Princeton CS Ph.D. Student](https://www.cs.princeton.edu/~ttomesh/)
@@ -15,6 +14,7 @@
 
 - Ali Javadi-Abhari, Princeton EE Ph.D. -> Now at IBM T.J. Watson Research Center
 - Eric Chi, Princeton EE Ph.D. -> Now at NVIDIA
+- [Yipeng Huang, Princeton CS Postdoc](https://yipenghuang.com/) -> Assistant Professor, Rutgers University
 
 ## News
 
