@@ -36,8 +36,9 @@ IEEE Transactions on Quantum Engineering, November 2020. 1st place IBM Q Best Pa
 
 - Wei Tang, Teague Tomesh, Martin Suchara, Jeffrey Larson, Margaret Martonosi.
 **CutQC: Using Small Quantum Computers for LargeQuantum Circuit Evaluations**
-Further revised version to appear at the 26th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2021).
+In Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS ’21).
 [[PDF]](https://mrmgroup.cs.princeton.edu/papers/CutQC_ASPLOS2021.pdf)
+[[arXiv]](https://arxiv.org/abs/2012.02333)
 
 - Prakash Murali, Norbert Matthias Linke, Margaret Martonosi, Ali Javadi Abhari, Nhung Hong Nguyen, Cinthia Huerta Alderete. **Architecting Noisy-Intermediate Scale Quantum Computers: A Real-System Study** 
 IEEE Micro, 40 (3) (Top Picks of the 2019 Computer Architecture Conferences), May-June 2020. 
