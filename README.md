@@ -27,6 +27,11 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
+- Lingling Lao*, Prakash Murali*, Margaret Martonosi, Dan Browne. 
+**Designing Calibration and Expressivity-Efficient Instruction Sets for Quantum Computing**
+47th International Symposium on Computer Architecture (ISCA ’21). (*joint first authors)
+ [[PDF]](https://mrmgroup.cs.princeton.edu/papers/pmurali-isca21.pdf)
+
 - Pranav Gokhale, Olivia Angiuli, Yongshan Ding, Kaiwen Gui, Teague Tomesh, Martin Suchara, Margaret Martonosi, Frederic T. Chong:
 **O(N^3) Measurement Cost for Variational Quantum Eigensolver on Molecular Hamiltonians.**
 IEEE Transactions on Quantum Engineering, November 2020. 1st place IBM Q Best Paper Award. IEEE International Conference on Quantum Computing and Engineering (QCE) 2020 Best Paper Award.
