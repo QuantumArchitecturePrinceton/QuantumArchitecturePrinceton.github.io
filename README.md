@@ -26,6 +26,9 @@
 Our work has been supported in part by the National Science Foundation (under grants CCF-0323472, PHY-1415537, PHY-1660686, 1730082 and others), the DoD (under subcontract 431682), and DTO (under contract W911NF-04-1-0398). In addition, we acknowledge past or ongoing support from the ARO, the Los Alamos National Laboratory, and the Intel Corporation.
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
+- Teague Tomesh and Margaret Martonosi, **"Quantum Codesign"** in IEEE Micro, vol. 41, no. 05, pp. 33-40, 2021. doi: 10.1109/MM.2021.3094461.
+[[PDF]](https://mrmgroup.cs.princeton.edu/papers/IEEEMicro_QuantumCodesign.pdf)
+[[IEEE Micro]](https://www.computer.org/csdl/magazine/mi/2021/05/09472953/1uUtKyNyXCw)
 
 - Lingling Lao*, Prakash Murali*, Margaret Martonosi, Dan Browne. 
 **Designing Calibration and Expressivity-Efficient Instruction Sets for Quantum Computing**
