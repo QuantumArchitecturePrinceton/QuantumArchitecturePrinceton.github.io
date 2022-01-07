@@ -26,6 +26,11 @@
 Our work has been supported in part by the National Science Foundation (under grants CCF-0323472, PHY-1415537, PHY-1660686, 1730082 and others), the DoD (under subcontract 431682), and DTO (under contract W911NF-04-1-0398). In addition, we acknowledge past or ongoing support from the ARO, the Los Alamos National Laboratory, and the Intel Corporation.
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
+- Teague Tomesh, Pranav Gokhale, Eric R. Anschuetz, and Frederic T. Chong. **Coreset Clustering on Small Quantum Computers**. *Electronics* 2021, *10*, 1690. doi:10.3390/electronics10141690.
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/teague-coreset-clustering.pdf)
+[[Electronics]](https://www.mdpi.com/2079-9292/10/14/1690/htm)
+[[Github]](https://github.com/teaguetomesh/coresets)
+
 - Teague Tomesh and Margaret Martonosi, **"Quantum Codesign"** in IEEE Micro, vol. 41, no. 05, pp. 33-40, 2021. doi: 10.1109/MM.2021.3094461.
 [[PDF]](https://mrmgroup.cs.princeton.edu/papers/IEEEMicro_QuantumCodesign.pdf)
 [[IEEE Micro]](https://www.computer.org/csdl/magazine/mi/2021/05/09472953/1uUtKyNyXCw)
@@ -107,6 +112,7 @@ ASPLOS 2019
 [[lightning]](https://www.youtube.com/watch?v=4RlOaxYPkX8&feature=youtu.be)
 [[PDF]](https://quantumarchitectureprinceton.github.io/publications/1901.11054.pdf)
 [[arXiv]](https://arxiv.org/abs/1901.11054)
+[[Qiskit]](https://qiskit.org/documentation/stubs/qiskit.transpiler.passes.NoiseAdaptiveLayout.html?highlight=noiseadaptive#qiskit.transpiler.passes.NoiseAdaptiveLayout)
 
 - Prakash Murali, Ali Javadi Abhari, Frederic T. Chong, Margaret Martonosi:
 **Formal Constraint-based Compilation for Noisy Intermediate-Scale Quantum Systems.**
@@ -114,7 +120,7 @@ Microprocessors and Microsystems, Special Issue on Quantum Computer Architecture
 (Earlier version of ASPLOS 2019 paper)
 [[PDF]](https://quantumarchitectureprinceton.github.io/publications/1903.03276.pdf)
 [[arXiv]](https://arxiv.org/abs/1903.03276)
- 
+
 - **Quantum Computing: Progress and Prospects (2018)**
 National Academies of Sciences, Engineering, and Medicine. 2018.
 Margaret Martonosi was a member of the study committee for this report.
