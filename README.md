@@ -5,13 +5,13 @@
 ## Group Members
 
 - [Prof. Margaret Martonosi, Princeton](http://www.princeton.edu/~mrm/)
-- [Prakash Murali, Princeton CS Ph.D. Student](https://cs.princeton.edu/~pmurali)
-- [Wei Tang, Princeton CS Ph.D. Student](https://www.cs.princeton.edu/~weit/)
+- [Wei Tang, Princeton CS Ph.D. Student](https://www.wtang.page)
 - [Teague Tomesh, Princeton CS Ph.D. Student](https://www.cs.princeton.edu/~ttomesh/)
 - [Our collaborators at EPiQC, an NSF Expedition in Computing](https://www.epiqc.cs.uchicago.edu/)
 
 ## Group Alumni
 
+- [Prakash Murali, Princeton CS Ph.D. Student](https://prakashmurali.bitbucket.io) -> Now at Microsoft Research
 - Ali Javadi-Abhari, Princeton EE Ph.D. -> Now at IBM T.J. Watson Research Center
 - Eric Chi, Princeton EE Ph.D. -> Now at NVIDIA
 - [Yipeng Huang, Princeton CS Postdoc](https://yipenghuang.com/) -> Assistant Professor, Rutgers University
