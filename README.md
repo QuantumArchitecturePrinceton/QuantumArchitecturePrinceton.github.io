@@ -18,6 +18,8 @@
 
 ## News
 
+- [Quantum benchmark suite wins best paper at HPCA-28](https://cs.uchicago.edu/news/super-tech-epiqc-research-informs-new-suite-of-benchmarks-for-quantum-computers/)
+- [Program execution ordering wins ICRC '21 best paper award](https://www.anl.gov/mcs/article/researchers-win-best-paper-award-for-novel-quantum-computing-strategy)
 - [Martonosi sketches a path for a new type of computing](https://www.princeton.edu/news/2017/11/14/martonosi-sketches-path-new-type-computing)
 - [Martonosi helps lead major push to make quantum computing practical](https://www.princeton.edu/news/2018/02/28/martonosi-helps-lead-major-push-make-quantum-computing-practical)
 
@@ -26,6 +28,26 @@
 Our work has been supported in part by the National Science Foundation (under grants CCF-0323472, PHY-1415537, PHY-1660686, 1730082 and others), the DoD (under subcontract 431682), and DTO (under contract W911NF-04-1-0398). In addition, we acknowledge past or ongoing support from the ARO, the Los Alamos National Laboratory, and the Intel Corporation.
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
+
+- Teague Tomesh, Pranav Gokhale, Victory Omole, Gokul Subramanian Ravi, Kaitlin N. Smith, Joshua Viszlai, Xin-Chuan Wu, Nikos Hardavellas, Margaret Martonosi, Frederic T. Chong.
+**SupermarQ: A Scalable Quantum Benchmark Suite**,
+The 28th IEEE International Symposium on High-Performance Computer Architecture (HPCA-28), April 2022.
+**Best Paper Award**
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/tomesh-supermarq.pdf)
+[[Full Talk]](https://drive.google.com/file/d/1AlW6e6LhwLeODEvb583TAcz_GUlVZMsN/view?usp=sharing)
+[[Lightning Talk]](https://drive.google.com/file/d/1iurzNRr_jzxjGBjHr3pGQ0KkJnubDVA1/view?usp=sharing)
+[[GitHub]](https://github.com/SupertechLabs/SupermarQ)
+
+- Teague Tomesh/*, Kaiwen Gui/*, Pranav Gokhale, Yunong Shi, Frederic T. Chong, Margaret Martonosi, Martin Suchara.
+**Optimized Quantum Program Execution Ordering to Mitigate Errors in Simulations of Quantum Systems**,
+IEEE International Conference on Rebooting Computing (ICRC), December 2021. (/*joint first authors)
+**Best Paper Award**
+[[PDF]](https://quantumarchitectureprinceton.github.io/publications/tomesh-term-grouping.pdf)
+[[recording]](https://drive.google.com/file/d/1SXROxXpP1WVrEja6kP9RPcBdFFNeBfaI/view?usp=sharing)
+[[GitHub]](https://github.com/teaguetomesh/dqs-term-grouping)
+
+
+
 - Teague Tomesh, Pranav Gokhale, Eric R. Anschuetz, and Frederic T. Chong. **Coreset Clustering on Small Quantum Computers**. *Electronics* 2021, *10*, 1690. doi:10.3390/electronics10141690.
 [[PDF]](https://quantumarchitectureprinceton.github.io/publications/teague-coreset-clustering.pdf)
 [[Electronics]](https://www.mdpi.com/2079-9292/10/14/1690/htm)
