@@ -38,9 +38,9 @@ The 28th IEEE International Symposium on High-Performance Computer Architecture 
 [[Lightning Talk]](https://drive.google.com/file/d/1iurzNRr_jzxjGBjHr3pGQ0KkJnubDVA1/view?usp=sharing)
 [[GitHub]](https://github.com/SupertechLabs/SupermarQ)
 
-- Teague Tomesh/*, Kaiwen Gui/*, Pranav Gokhale, Yunong Shi, Frederic T. Chong, Margaret Martonosi, Martin Suchara.
+- Teague Tomesh*, Kaiwen Gui*, Pranav Gokhale, Yunong Shi, Frederic T. Chong, Margaret Martonosi, Martin Suchara.
 **Optimized Quantum Program Execution Ordering to Mitigate Errors in Simulations of Quantum Systems**,
-IEEE International Conference on Rebooting Computing (ICRC), December 2021. (/*joint first authors)
+IEEE International Conference on Rebooting Computing (ICRC), December 2021. (*joint first authors)
 **Best Paper Award**
 [[PDF]](https://quantumarchitectureprinceton.github.io/publications/tomesh-term-grouping.pdf)
 [[recording]](https://drive.google.com/file/d/1SXROxXpP1WVrEja6kP9RPcBdFFNeBfaI/view?usp=sharing)
