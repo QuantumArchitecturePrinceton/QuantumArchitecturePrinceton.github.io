@@ -26,9 +26,20 @@
 
 ## Publications
 
-Our work has been supported in part by the National Science Foundation (under grants CCF-0323472, PHY-1415537, PHY-1660686, 1730082 and others), the DoD (under subcontract 431682), and DTO (under contract W911NF-04-1-0398). In addition, we acknowledge past or ongoing support from the ARO, the Los Alamos National Laboratory, and the Intel Corporation.
+Our work has been supported in part by the National Science Foundation (under grants CCF-0323472, PHY-1415537, PHY-1660686, 1730082 and others), the DoD (under subcontract 431682), DoE (under contract DE-SC0012704), and DTO (under contract W911NF-04-1-0398). In addition, we acknowledge past or ongoing support from the ARO, the Los Alamos National Laboratory, and the Intel Corporation.
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
+
+- Wei Tang, Margaret Martonosi.
+**ScaleQC: A Scalable Framework for Hybrid Computation on Quantum and Classical Processors**,
+May 2022.
+[[arXiv]](https://arxiv.org/abs/2207.00933)
+[[Code]](https://doi.org/10.5281/zenodo.6421908)
+
+- Wei Tang, Margaret Martonosi.
+**Cutting Quantum Circuits to Run on Quantum and Classical Platforms**,
+May 2022.
+[[arXiv]](https://arxiv.org/abs/2205.05836)
 
 - Teague Tomesh, Pranav Gokhale, Victory Omole, Gokul Subramanian Ravi, Kaitlin N. Smith, Joshua Viszlai, Xin-Chuan Wu, Nikos Hardavellas, Margaret Martonosi, Frederic T. Chong.
 **SupermarQ: A Scalable Quantum Benchmark Suite**,
