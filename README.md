@@ -25,7 +25,7 @@
 
 ## Publications
 
-Our work has been supported in part by the National Science Foundation (under grants CCF-0323472, PHY-1415537, PHY-1660686, 1730082 and others), the DoD (under subcontract 431682), and DTO (under contract W911NF-04-1-0398). In addition, we acknowledge past or ongoing support from the ARO, the Los Alamos National Laboratory, and the Intel Corporation.
+Our work has been supported in part by the National Science Foundation (under grants CCF-0323472, PHY-1415537, PHY-1660686, 1730082 and others), the DoD (under subcontract 431682), DoE (under contract DE-SC0012704), and DTO (under contract W911NF-04-1-0398). In addition, we acknowledge past or ongoing support from the ARO, the Los Alamos National Laboratory, and the Intel Corporation.
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
