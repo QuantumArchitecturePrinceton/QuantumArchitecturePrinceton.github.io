@@ -29,6 +29,17 @@ Our work has been supported in part by the National Science Foundation (under gr
 
 [The full list of MRMGroup papers (both QC and other non-QC topics) can be found at mrmgroup.cs.princeton.edu.](http://mrmgroup.cs.princeton.edu/)
 
+- Wei Tang, Margaret Martonosi.
+**ScaleQC: A Scalable Framework for Hybrid Computation on Quantum and Classical Processors**,
+May 2022.
+[[arXiv]](https://arxiv.org/abs/2207.00933)
+[[Code]](https://doi.org/10.5281/zenodo.6421908)
+
+- Wei Tang, Margaret Martonosi.
+**Cutting Quantum Circuits to Run on Quantum and Classical Platforms**,
+May 2022.
+[[arXiv]](https://arxiv.org/abs/2205.05836)
+
 - Teague Tomesh, Pranav Gokhale, Victory Omole, Gokul Subramanian Ravi, Kaitlin N. Smith, Joshua Viszlai, Xin-Chuan Wu, Nikos Hardavellas, Margaret Martonosi, Frederic T. Chong.
 **SupermarQ: A Scalable Quantum Benchmark Suite**,
 The 28th IEEE International Symposium on High-Performance Computer Architecture (HPCA-28), April 2022.
