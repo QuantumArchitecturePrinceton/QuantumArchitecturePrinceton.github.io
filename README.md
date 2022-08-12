@@ -6,7 +6,7 @@
 - [Wei Tang, Princeton CS Ph.D. Student](https://www.wtang.page)
 - [Teague Tomesh, Princeton CS Ph.D. Student](https://www.cs.princeton.edu/~ttomesh/)
 
-### Our collaborators
+## Our collaborators
 - [EPiQC, an NSF Expedition in Computing](https://www.epiqc.cs.uchicago.edu/)
 - [C2QA, the Co-design Center for Quantum Advantage](https://www.bnl.gov/quantumcenter/)
 
@@ -19,6 +19,7 @@
 
 ## News
 
+- [Prakash Murali wins 2022 Outstanding Dissertation Award](https://www.sigarch.org/other-announcements/congratulating-isca-2022-awards-recipients/)
 - [Quantum benchmark suite wins best paper at HPCA-28](https://cs.uchicago.edu/news/super-tech-epiqc-research-informs-new-suite-of-benchmarks-for-quantum-computers/)
 - [Program execution ordering wins ICRC '21 best paper award](https://www.anl.gov/mcs/article/researchers-win-best-paper-award-for-novel-quantum-computing-strategy)
 - [Martonosi sketches a path for a new type of computing](https://www.princeton.edu/news/2017/11/14/martonosi-sketches-path-new-type-computing)
