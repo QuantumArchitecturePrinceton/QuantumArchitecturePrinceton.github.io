@@ -1,13 +1,14 @@
 # QArch
 
-![](https://quantumarchitectureprinceton.github.io/images/ali_thesis_111.png)
-
 ## Group Members
 
 - [Prof. Margaret Martonosi, Princeton](http://www.princeton.edu/~mrm/)
 - [Wei Tang, Princeton CS Ph.D. Student](https://www.wtang.page)
 - [Teague Tomesh, Princeton CS Ph.D. Student](https://www.cs.princeton.edu/~ttomesh/)
-- [Our collaborators at EPiQC, an NSF Expedition in Computing](https://www.epiqc.cs.uchicago.edu/)
+
+### Our collaborators
+- [EPiQC, an NSF Expedition in Computing](https://www.epiqc.cs.uchicago.edu/)
+- [C2QA, the Co-design Center for Quantum Advantage](https://www.bnl.gov/quantumcenter/)
 
 ## Group Alumni
 
