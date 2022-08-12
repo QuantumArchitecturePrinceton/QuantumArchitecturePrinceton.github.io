@@ -83,7 +83,7 @@ IEEE Transactions on Quantum Engineering, November 2020. 1st place IBM Q Best Pa
 [[Github]](https://github.com/teaguetomesh/vqe-term-grouping)
 
 - Wei Tang, Teague Tomesh, Martin Suchara, Jeffrey Larson, Margaret Martonosi.
-**CutQC: Using Small Quantum Computers for LargeQuantum Circuit Evaluations**
+**CutQC: Using Small Quantum Computers for Large Quantum Circuit Evaluations**
 In Proceedings of the 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS ’21).
 [[PDF]](https://mrmgroup.cs.princeton.edu/papers/CutQC_ASPLOS2021.pdf)
 [[arXiv]](https://arxiv.org/abs/2012.02333)
